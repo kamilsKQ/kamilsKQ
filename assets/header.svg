@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Kamil Szostok — software engineer: .NET / C#, Next.js, T-SQL. ERP integrations and add-ons. Founder of KARQIS and Auspicon.">
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="12" cy="12" r="1.2" fill="#ffffff" fill-opacity="0.07"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0f1115" stop-opacity="1"/>
+      <stop offset="0.55" stop-color="#0f1115" stop-opacity="1"/>
+      <stop offset="1" stop-color="#0f1115" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="#0f1115"/>
+  <rect width="1200" height="300" rx="18" fill="url(#dots)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#fade)"/>
+
+  <!-- pixel grid accent (the KARQIS logo pixel) -->
+  <g transform="translate(868 62)">
+    <rect x="0"   y="0"   width="22" height="22" rx="3" fill="#ffffff" fill-opacity="0.06"/>
+    <rect x="34"  y="0"   width="22" height="22" rx="3" fill="#ffffff" fill-opacity="0.10"/>
+    <rect x="68"  y="0"   width="22" height="22" rx="3" fill="#ffffff" fill-opacity="0.06"/>
+    <rect x="102" y="0"   width="22" height="22" rx="3" fill="#ffffff" fill-opacity="0.14"/>
+    <rect x="136" y="0"   width="22" height="22" rx="3" fill="#ffffff" fill-opacity="0.06"/>
+    <rect x="170" y="0"   width="22" height="22" rx="3" fill="#ffffff" fill-opacity="0.10"/>
+    <rect x="204" y="0"   width="22" height="22" rx="3" fill="#ffffff" fill-opacity="0.06"/>
+    <rect x="0"   y="34"  width="22" height="22" rx="3" fill="#ffffff" fill-opacity="0.10"/>
+    <rect x="34"  y="34"  width="22" height="22" rx="3" fill="#ffffff" fill-opacity="0.18"/>
+    <rect x="68"  y="34"  width="22" height="22" rx="3" fill="#ffffff" fill-opacity="0.10"/>
+    <rect x="102" y="34"  width="22" height="22" rx="3" fill="#ffffff" fill-opacity="0.06"/>
+    <rect x="136" y="34"  width="22" height="22" rx="3" fill="#ffffff" fill-opacity="0.22"/>
+    <rect x="170" y="34"  width="22" height="22" rx="3" fill="#ffffff" fill-opacity="0.06"/>
+    <rect x="204" y="34"  width="22" height="22" rx="3" fill="#ffffff" fill-opacity="0.12"/>
+    <rect x="0"   y="68"  width="22" height="22" rx="3" fill="#ffffff" fill-opacity="0.06"/>
+    <rect x="34"  y="68"  width="22" height="22" rx="3" fill="#ffffff" fill-opacity="0.10"/>
+    <rect x="68"  y="68"  width="22" height="22" rx="3" fill="#ffffff" fill-opacity="0.28"/>
+    <rect x="102" y="68"  width="22" height="22" rx="3" fill="#1f3bd3"/>
+    <rect x="136" y="68"  width="22" height="22" rx="3" fill="#ffffff" fill-opacity="0.28"/>
+    <rect x="170" y="68"  width="22" height="22" rx="3" fill="#ffffff" fill-opacity="0.10"/>
+    <rect x="204" y="68"  width="22" height="22" rx="3" fill="#ffffff" fill-opacity="0.06"/>
+    <rect x="0"   y="102" width="22" height="22" rx="3" fill="#ffffff" fill-opacity="0.12"/>
+    <rect x="34"  y="102" width="22" height="22" rx="3" fill="#ffffff" fill-opacity="0.06"/>
+    <rect x="68"  y="102" width="22" height="22" rx="3" fill="#ffffff" fill-opacity="0.22"/>
+    <rect x="102" y="102" width="22" height="22" rx="3" fill="#ffffff" fill-opacity="0.06"/>
+    <rect x="136" y="102" width="22" height="22" rx="3" fill="#ffffff" fill-opacity="0.10"/>
+    <rect x="170" y="102" width="22" height="22" rx="3" fill="#ffffff" fill-opacity="0.18"/>
+    <rect x="204" y="102" width="22" height="22" rx="3" fill="#ffffff" fill-opacity="0.10"/>
+    <rect x="0"   y="136" width="22" height="22" rx="3" fill="#ffffff" fill-opacity="0.06"/>
+    <rect x="34"  y="136" width="22" height="22" rx="3" fill="#ffffff" fill-opacity="0.14"/>
+    <rect x="68"  y="136" width="22" height="22" rx="3" fill="#ffffff" fill-opacity="0.06"/>
+    <rect x="102" y="136" width="22" height="22" rx="3" fill="#ffffff" fill-opacity="0.10"/>
+    <rect x="136" y="136" width="22" height="22" rx="3" fill="#ffffff" fill-opacity="0.06"/>
+    <rect x="170" y="136" width="22" height="22" rx="3" fill="#ffffff" fill-opacity="0.10"/>
+    <rect x="204" y="136" width="22" height="22" rx="3" fill="#ffffff" fill-opacity="0.06"/>
+  </g>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="72" y="96" font-size="15" font-weight="600" letter-spacing="3.5" fill="#8b9097">SOFTWARE ENGINEER · POLAND</text>
+    <text x="72" y="160" font-size="58" font-weight="700" letter-spacing="-1.5" fill="#ffffff">Kamil Szostok</text>
+    <rect x="438" y="140" width="16" height="16" rx="2.5" fill="#1f3bd3"/>
+    <text x="72" y="206" font-size="24" font-weight="500" fill="#d4d7dc">.NET / C#   ·   Next.js   ·   T-SQL</text>
+    <text x="72" y="244" font-size="17" fill="#8b9097">ERP integrations &amp; add-ons  ·  Founder of KARQIS and Auspicon</text>
+  </g>
+</svg>
