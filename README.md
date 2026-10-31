@@ -59,24 +59,13 @@ Most of my day-to-day work is commercial and lives in private repositories under
 **Core**
 
 <p>
-  <img src="https://img.shields.io/badge/C%23-1f3bd3?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHRleHQgeD0iMTIiIHk9IjE3LjUiIGZvbnQtZmFtaWx5PSJBcmlhbCxIZWx2ZXRpY2Esc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxNSIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI2ZmZiIgdGV4dC1hbmNob3I9Im1pZGRsZSI%2BQyM8L3RleHQ%2BPC9zdmc%2B" alt="C#">
-  <img src="https://img.shields.io/badge/.NET-1f3bd3?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/T--SQL_%2F_SQL_Server-1f3bd3?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTEyIDJDNyAyIDMgMy42IDMgNS41djEzQzMgMjAuNCA3IDIyIDEyIDIyczktMS42IDktMy41di0xM0MyMSAzLjYgMTcgMiAxMiAyem0wIDJjNC40IDAgNyAxLjMgNyAxLjVTMTYuNCA3IDEyIDcgNSA1LjcgNSA1LjUgNy42IDQgMTIgNHptNyAxNC41YzAgLjItMi42IDEuNS03IDEuNXMtNy0xLjMtNy0xLjV2LTIuOUM2LjYgMTYuNCA5LjEgMTcgMTIgMTdzNS40LS42IDctMS40em0wLTVjMCAuMi0yLjYgMS41LTcgMS41cy03LTEuMy03LTEuNXYtMi45QzYuNiAxMS40IDkuMSAxMiAxMiAxMnM1LjQtLjYgNy0xLjR6Ii8%2BPC9zdmc%2B" alt="T-SQL / SQL Server">
-  <img src="https://img.shields.io/badge/Next.js-1f3bd3?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <a href="#"><img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" height="56" alt="C#, .NET"></a>&nbsp;<a href="#"><img src="assets/tsql.svg" height="56" alt="T-SQL / SQL Server"></a>&nbsp;<a href="#"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="56" alt="Next.js"></a>
 </p>
 
 **Also in daily use**
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-24292f?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-24292f?style=for-the-badge&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-24292f?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Node.js-24292f?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Python-24292f?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Electron-24292f?style=for-the-badge&logo=electron&logoColor=white" alt="Electron">
-  <img src="https://img.shields.io/badge/PostgreSQL-24292f?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Docker-24292f?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/GitHub_Actions-24292f?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://skillicons.dev/icons?i=ts,react,tailwind,nodejs,py,electron,postgres,docker,githubactions&theme=dark&perline=9" height="48" alt="TypeScript, React, Tailwind CSS, Node.js, Python, Electron, PostgreSQL, Docker, GitHub Actions">
 </p>
 
 **AI / ML**
@@ -112,7 +101,6 @@ Most of my day-to-day work is commercial and lives in private repositories under
 | Repository | What it is |
 |---|---|
 | [KARQIS-PL/karqis-skill-builder](https://github.com/KARQIS-PL/karqis-skill-builder) | Windows-first workbench for building, auditing and deploying coding-agent skills across Claude Code, Codex, Cursor and Windsurf. Electron + React + TypeScript, MIT. |
-| [kamilsKQ/context_engineering](https://github.com/kamilsKQ/context_engineering) | A set of Markdown best-practice guides (API design, Git workflow, commenting, engineering principles) meant to be dropped into a codebase as shared context for AI coding agents. |
 
 ## Contact
 

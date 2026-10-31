@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 256 256" role="img" aria-label="T-SQL / SQL Server">
+  <rect width="256" height="256" rx="60" fill="#242938"/>
+  <g transform="translate(128 118)">
+    <ellipse cx="0" cy="-46" rx="62" ry="22" fill="#e8ecfb"/>
+    <path d="M-62-46v92c0 12.2 27.8 22 62 22s62-9.8 62-22v-92c0 12.2-27.8 22-62 22s-62-9.8-62-22z" fill="#cc2927"/>
+    <path d="M-62-10c0 12.2 27.8 22 62 22s62-9.8 62-22" fill="none" stroke="#e8ecfb" stroke-opacity=".55" stroke-width="8"/>
+    <path d="M-62 20c0 12.2 27.8 22 62 22s62-9.8 62-22" fill="none" stroke="#e8ecfb" stroke-opacity=".55" stroke-width="8"/>
+  </g>
+  <text x="128" y="226" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="40" font-weight="700" fill="#ffffff" letter-spacing="1">T-SQL</text>
+</svg>
